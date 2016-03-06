@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Regstricted Area"
+AuthUserFile /home/abuloot/Workspace/bigstore/admin/.htpasswd
+require valid-user
